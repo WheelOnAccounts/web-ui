@@ -66,7 +66,7 @@ const HomeModule = props => {
         <div class="nav-wrapper">
           <a href="/" class="brand-logo">
             <i class="medium material-icons">directions_bus</i>
-            Wheel On Accounts
+            Wheel On Accounts (Veera)
           </a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li>
