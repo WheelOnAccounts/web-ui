@@ -1,0 +1,7 @@
+$primary-color: rgba(243, 223, 73, 1) !default;
+$primary-color-light: lighten($primary-color, 15%) !default;
+$primary-color-dark: darken($primary-color, 15%) !default;
+
+// Font Variables
+$work-sans: 'Work Sans', sans-serif;
+$open-sans: 'Open Sans', sans-serif;

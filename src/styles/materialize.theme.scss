@@ -1,0 +1,29 @@
+// import Materialize colors
+@import 'materialize-css/sass/components/_color-variables.scss';
+@import 'materialize-css/sass/components/_color-classes.scss';
+// Override Materialize variables
+@import './_variables.scss';
+@import 'materialize-css/sass/materialize.scss';
+
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+
+.brand-logo {
+  font-family: 'Work Sans script=all rev=1', 'Adobe Blank';
+  font-size: 20px !important;
+  color: rgba(80, 64, 0, 1) !important;
+  margin-left: 4px;
+}
+
+.brand-logo i {
+  margin-right: 9px !important;
+}
+
+nav ul a,
+a {
+  color: rgba(135, 118, 0, 1) !important;
+}
+
+a:hover {
+  color: rgba(80, 64, 0, 1) !important;
+  fill: rgba(99, 83, 0, 1) !important;
+}
